@@ -17,7 +17,7 @@
 
 ## 🛠 Reverse Engineering
 
-- **Reverse Engineering**:Currently learning (ctf..)**.
+- **Reverse Engineering**:Currently learning (ctf..).
 - **Gaming**: Reverse-engineering game mechanics and modifying gameplay for fun and education.
 
 ---
@@ -40,5 +40,5 @@
 
 ## 📊 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darkexitmatrix&show_icons=true&theme=radical)
 
