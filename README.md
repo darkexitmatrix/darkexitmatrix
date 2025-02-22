@@ -19,15 +19,7 @@
 ## 🛠 Reverse Engineering
 
 - **Reverse Engineering**:Currently learning (ctf..).
-- **Gaming**: Reverse-engineering game mechanics and modifying gameplay for fun and education.
-
----
-
-## 🖥️ OTHERS STUFF
-
-- **Linux**: Comfortable with Linux-based systems and server management.
-- **MySQL & MariaDB**: Experience in database management and query optimization.
-- **Apache**: Basic knowledge of configuring and managing Apache servers.
+- **Gaming**: Reverse-engineering game education only.
 
 
 ---
