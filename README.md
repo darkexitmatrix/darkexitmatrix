@@ -1,6 +1,6 @@
 ---
 
-## 🔥 Current Project: [VIZU RP](https://discord.gg/vizu)  
+## 🔥 Current Project: [VIZU](https://discord.gg/vizu)  
 
 ---
 
@@ -20,13 +20,6 @@
 
 - **Reverse Engineering**:Currently learning (ctf..).
 - **Gaming**: Reverse-engineering game education only.
-
-
----
-
-## 🚀 Featured Projects
-
-### [VIZU RP](https://discord.gg/vizu)  
 
 
 ---
